@@ -1,0 +1,6 @@
+{
+  "name": "Campanha Educativa Digital contra Arboviroses — Prevenção da Dengue, Vacina no SUS e Validador Oficial (Certificado Nº 06)",
+  "description": "Plataforma interinstitucional da Campanha Educativa Digital contra Arboviroses: Quiz Populacional sobre Prevenção da Dengue, Conscientização sobre a Vacina no SUS, Certificado Nº 06 em PDF e Autenticador de Fé Pública.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
